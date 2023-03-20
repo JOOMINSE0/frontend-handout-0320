@@ -1,0 +1,14 @@
+h1{
+    color:rgb(36, 0, 128);
+}
+
+h2.intro{
+    color: rgb(88, 85, 85);
+
+}
+h2#original{
+    color: rgb(68, 66, 169);
+}
+div h2{
+    color: rgb(226, 72, 116);
+}
